@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+.nav{
+    position: relative;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    margin-top: -1%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background: whitesmoke;
+    overflow: hidden;
+}
+.abo{
+    position: relative;
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: 'Poppins',sans-serif;
+    color: #04042e;
+}
+.logo{
+    position: relative;
+    font-family: 'Kalam',cursive;
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+.abou{
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    font-family: 'Poppins',sans-serif;
+}
